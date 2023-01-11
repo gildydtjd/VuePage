@@ -1,11 +1,11 @@
 <template>
   <div class="about">
-    <Header></Header>
+    <Header/>
     <div id="about-info">
-      <Menu></Menu>
-      <Main></Main>
+      <Menu/>
+      <Main/>
     </div>
-    <Footer></Footer>
+    <Footer/>
   </div>
 </template>
 
